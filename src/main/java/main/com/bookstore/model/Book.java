@@ -1,4 +1,4 @@
-package main.com.bookstore.model;
+package com.bookstore.model;
 
 import lombok.Value;
 

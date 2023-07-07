@@ -1,6 +1,6 @@
-package main.com.bookstore.service;
+package com.bookstore.service;
 
-import main.com.bookstore.model.Book;
+import com.bookstore.model.Book;
 
 import java.util.List;
 

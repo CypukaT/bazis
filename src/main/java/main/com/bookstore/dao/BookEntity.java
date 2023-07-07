@@ -1,4 +1,4 @@
-package main.com.bookstore.dao;
+package com.bookstore.dao;
 
 import jakarta.persistence.*;
 import lombok.*;

@@ -1,10 +1,10 @@
-package main.controllers;
+package controllers;
 
 import lombok.RequiredArgsConstructor;
-import main.com.bookstore.mapper.BookToDtoMapper;
-import main.com.bookstore.model.Book;
-import main.com.bookstore.model.BookRequest;
-import main.com.bookstore.service.BookService;
+import com.bookstore.mapper.BookToDtoMapper;
+import com.bookstore.model.Book;
+import com.bookstore.model.BookRequest;
+import com.bookstore.service.BookService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

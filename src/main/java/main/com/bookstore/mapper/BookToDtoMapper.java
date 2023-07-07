@@ -1,7 +1,7 @@
-package main.com.bookstore.mapper;
+package com.bookstore.mapper;
 
-import main.com.bookstore.model.Book;
-import main.com.bookstore.model.BookRequest;
+import com.bookstore.model.Book;
+import com.bookstore.model.BookRequest;
 import org.mapstruct.Mapper;
 
 @Mapper(componentModel = "spring")
